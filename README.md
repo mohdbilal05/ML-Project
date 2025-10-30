@@ -35,15 +35,7 @@ An end-to-end **Machine Learning Pipeline Project** built with a professional an
 
 ## 📂 Project Structure
 
-ML-Project/
-│
-├── artifacts/ # Saved models, preprocessors, logs
-├── datasets/ # Input datasets
-├── notebooks/ # EDA and experiments
-├── ml_pipeline.py # Core ML pipeline
-├── main.py # Entry point to run pipeline
-├── requirements.txt # Dependencies
-└── LICENSE # Apache License
+<img width="451" height="288" alt="image" src="https://github.com/user-attachments/assets/1a58f8e4-642b-44e7-9926-443edefc982a" />
 
 
 **✅ Step 2: Create virtual environment**
