@@ -119,7 +119,7 @@ Data Science & Machine Learning Enthusiast | Building data-driven solutions with
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bilal-mohd)  
 - 🌐 [GitHub](https://github.com/mohdbilal05)  
-- ✉️ Email: *your-email@example.com*  
+- ✉️ Email: mohdbilal3109@gmail.com 
 
 ---
 
