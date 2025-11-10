@@ -90,7 +90,7 @@ Final Model: **Random Forest Regressor** (highest accuracy and generalization).
 | Modeling | Linear, Ridge, Lasso, Decision Tree, Random Forest |
 | Visualization | Matplotlib, Seaborn |
 | Environment | Jupyter Notebook |
-| Optional Deployment | Flask / Streamlit |
+| Optional Deployment | Streamlit |
 
 ---
 
